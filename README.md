@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Clean Animated Intro -->
+<!-- Clean Animated Intro --><!-- Clean Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=700&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dhruvik+🤝;CSE+Student+%40+MNIT+Jaipur;Software+Developer+%7C+Systems+%7C+Backend;Always+Learning.+Always+Improving." />
 </p>
@@ -62,20 +62,66 @@ I aim for clarity, structure, and long-term maintainability over flashiness.
 
 ## 📊 GitHub Analytics
 
+<!-- Animated stats + donut languages using github-readme-stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&hide_title=true&theme=default&include_all_commits=true&count_private=true"
-    height="160"
+  <!-- Main stats with animated rank ring -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&disable_animations=false"
+    height="170"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=compact&theme=default&hide_title=true"
-    height="160"
+  <!-- Donut-style top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=donut&theme=radical&langs_count=6&hide_progress=false"
+    height="170"
   />
+</p>
+
+<!-- Optional: WakaTime (enable only if you use WakaTime & make profile public) -->
+<!--
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_progress=false"
+    height="260"
+  />
+</p>
+-->
+
+---
+
+## 📌 Extra Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Dhruvik8849/Login-Auth-System">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Login-Auth-System&theme=radical&hide_border=true"
+    />
+  </a>
+  <a href="https://github.com/Dhruvik8849/SnakeGame-Python">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=SnakeGame-Python&theme=radical&hide_border=true"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhruvik8849/Crypto-Lab">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Crypto-Lab&theme=radical&hide_border=true"
+    />
+  </a>
+  <!-- Add one more strong repo here if you want -->
+  <!--
+  <a href="https://github.com/Dhruvik8849/ANOTHER_REPO">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=ANOTHER_REPO&theme=radical&hide_border=true"
+    />
+  </a>
+  -->
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Context)
 
 ### 🔐 Authentication System (bcrypt + secure sessions)  
 A clean, modular login/auth backend.  
@@ -97,9 +143,20 @@ Hands-on implementations: LFSR, MAC, RC4, DH
 - Writing **professional-quality code**  
 - Strong CS foundation: OS, DBMS, CN, OOP  
 - Clean architecture, modular design, documentation  
-- Preparing for **internships at top tech companies**
+- Preparing for **internships at top tech companies**  
 
 ---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/Dhruvik8849">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">Thanks for visiting — always open to learning & collaboration.</p>
+
 
 ## 🤝 Connect
 
