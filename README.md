@@ -105,6 +105,21 @@ I'm **Dhruvik**, a developer who loves:
 
 ---
 
+## 🌐 My Portfolio
+<p align="center">
+  <a href="https://dhruvik.online" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my projects, skills, and journey in detail on my personal website:
+  <br/>
+  <a href="https://dhruvik.online"><b>🌍 dhruvik.online</b></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=60&section=footer" />
 </p>
