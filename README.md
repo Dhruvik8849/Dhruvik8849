@@ -82,16 +82,16 @@ I'm **Dhruvik**, a developer who loves:
 
 ---
 
-# 📅 Animated Contribution Calendar
+## 📅 Animated Contribution Calendar
 <p align="center">
-  <img src="https://github.com/Dhruvik8849/Dhruvik8849/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Dhruvik8849/Dhruvik8849/output/github-contribution-grid-snake.svg" />
 </p>
 
 > **Note:** If snake animation not showing, tell me. I will enable the GitHub Action.
 
 ---
 
-# 💬 Auto Daily Quote (Updates Every Day)
+# 💬 Daily Quote (Updates Every Day)
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
