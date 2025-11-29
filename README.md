@@ -98,13 +98,7 @@ I'm **Dhruvik**, a developer who loves:
 
 ---
 
-# 🔗 Connect
-<p align="center">
-  <a href="https://github.com/Dhruvik8849"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/dhruvik8849"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
 
----
 ## 🌐 My Portfolio
 
 <p align="center">
