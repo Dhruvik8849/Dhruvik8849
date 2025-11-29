@@ -1,3 +1,8 @@
+<!-- CENTERED STUDY + CSE ANIMATED HEADER (Professional, Clean) -->
+<p align="center">
+  <img src="https://i.imgur.com/9Vh8kIT.gif" width="600" alt="Study Animated Header">
+</p>
+
 <!-- CENTERED TYPING INTRO -->
 <p align="center">
   <a href="https://github.com/Dhruvik8849">
@@ -49,15 +54,12 @@ I enjoy working on:
 
 ## ⚡ Live GitHub Analytics
 
-<!-- MAIN STATS + STREAK + LANGS (ALL “ANIMATED” CARDS) -->
 <p align="center">
-  <!-- Main stats (radical theme, rank ring) -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&disable_animations=false"
     height="170"
     alt="Dhruvik's GitHub stats"
   />
-  <!-- Streak (auto-updating fire streak) -->
   <img
     src="https://streak-stats.demolab.com?user=Dhruvik8849&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j"
     height="170"
@@ -66,24 +68,12 @@ I enjoy working on:
 </p>
 
 <p align="center">
-  <!-- Donut languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=donut&theme=radical&langs_count=6&hide_progress=false"
     height="180"
     alt="Top Languages"
   />
 </p>
-
-<!-- OPTIONAL: WakaTime (UNCOMMENT IF YOU USE IT) -->
-<!--
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&layout=compact"
-    height="260"
-    alt="WakaTime Stats"
-  />
-</p>
--->
 
 ---
 
@@ -95,14 +85,6 @@ I enjoy working on:
     alt="GitHub Contribution Snake"
   />
 </p>
-
-<!--
-To enable this:
-1. Fork: https://github.com/Platane/snk
-2. Follow instructions to set up GitHub Action that outputs snake SVG to:
-   /output/github-contribution-grid-snake-dark.svg in your profile repo.
-3. Commit and wait for the action to run.
--->
 
 ---
 
@@ -160,5 +142,5 @@ Practical implementations of LFSR, MAC, RC4, Diffie–Hellman, and related primi
 </p>
 
 <p align="center">
-  <em>Thanks for visiting — happy to connect, pair program, or collaborate on systems / backend / crypto-flavored projects.</em>
+  <em>Thanks for visiting — happy to connect, pair program, or collaborate on backend / systems / crypto projects.</em>
 </p>
