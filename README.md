@@ -44,21 +44,22 @@ I'm **Dhruvik**, a developer who loves:
 </div>
 
 ---
-
-# 💼 Projects I’m Proud Of
-<p align="center">
-  <a href="https://github.com/Dhruvik8849/Login-Auth-System">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dhruvik8849&repo=Login-Auth-System&theme=tokyonight&hide_border=true" width="45%"/>
-  </a>
-  <a href="https://github.com/Dhruvik8849/SnakeGame-Python">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dhruvik8849&repo=SnakeGame-Python&theme=tokyonight&hide_border=true" width="45%"/>
-  </a>
-</p>
+## 💼 Projects I’m Proud Of
 
 <p align="center">
-  <a href="https://github.com/Dhruvik8849/Crypto-Lab">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dhruvik8849&repo=Crypto-Lab&theme=tokyonight&hide_border=true" width="48%"/>
+
+  <!-- DSA Visualizer -->
+  <a href="https://dsavisualizermyproject-dhruvik8849.streamlit.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/DSA%20Visualizer-Live%20Demo-6A5ACD?style=for-the-badge&logo=streamlit&logoColor=white" height="60" />
   </a>
+
+  <br><br>
+
+  <!-- Tic Tac Toe Game -->
+  <a href="https://dhruvik8849.github.io/tic-tac-toe/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Tic%20Tac%20Toe-Play%20Online-00C851?style=for-the-badge&logo=githubpages&logoColor=white" height="60" />
+  </a>
+
 </p>
 
 ---
@@ -108,18 +109,26 @@ I'm **Dhruvik**, a developer who loves:
 
 <p align="center">
   <a href="https://dhruvik.online" target="_blank">
-    <img src="https://raw.githubusercontent.com/rohanverman/animated-gradient-box/main/gradient-box.gif" 
-         alt="Visit My Portfolio"
-         width="420px"
-         style="border-radius: 15px;"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Website-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>Click the box to visit:</b>  
-  <br>🌐 <a href="https://dhruvik.online">dhruvik.online</a>
+  <b>Explore all my projects, demos, ideas, and experiments in one place.</b><br>
+  From full-stack applications → to DSA tools → to blockchain concepts.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-15%2B-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Stack-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updated-Active-green?style=flat-square" />
+</p>
+
+<p align="center">
+  🌍 <a href="https://dhruvik.online" target="_blank"><b>dhruvik.online</b></a>
+</p>
+
+---
 
 ---
 
