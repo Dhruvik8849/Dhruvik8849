@@ -106,16 +106,11 @@ I'm **Dhruvik**, a developer who loves:
 ---
 
 ## 🌐 My Portfolio
-<p align="center">
-  <a href="https://dhruvik.online" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
-  Explore my projects, skills, and journey in detail on my personal website:
-  <br/>
-  <a href="https://dhruvik.online"><b>🌍 dhruvik.online</b></a>
+  <a href="https://dhruvik.online" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Explore+My+Portfolio+Website;Projects+%7C+Skills+%7C+Learning+Journey;Click+Here+to+Visit+➡️+dhruvik.online" />
+  </a>
 </p>
 
 ---
