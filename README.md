@@ -104,14 +104,22 @@ I'm **Dhruvik**, a developer who loves:
 </p>
 
 ---
-
 ## 🌐 My Portfolio
 
 <p align="center">
   <a href="https://dhruvik.online" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Explore+My+Portfolio+Website;Projects+%7C+Skills+%7C+Learning+Journey;Click+Here+to+Visit+➡️+dhruvik.online" />
+    <img src="https://raw.githubusercontent.com/rohanverman/animated-gradient-box/main/gradient-box.gif" 
+         alt="Visit My Portfolio"
+         width="420px"
+         style="border-radius: 15px;"/>
   </a>
 </p>
+
+<p align="center">
+  <b>Click the box to visit:</b>  
+  <br>🌐 <a href="https://dhruvik.online">dhruvik.online</a>
+</p>
+
 
 ---
 
