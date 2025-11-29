@@ -1,135 +1,160 @@
-<!-- CENTERED STUDY + CSE ANIMATED HEADER (Professional, Clean) -->
+<!-- UNIQUE CUSTOM PROFESSIONAL HEADER (SVG) -->
 <p align="center">
-  <img src="https://i.imgur.com/9Vh8kIT.gif" width="600" alt="Study Animated Header">
+  <img width="100%" src="https://readme-svg-mark.vercel.app/api/header?title=Dhruvik&subtitle=CSE%20Student%20%40%20MNIT%20Jaipur%20%E2%80%A2%20Backend%20%26%20Systems%20Developer&height=220&fontSize=40&colorA=0E76A8&colorB=6A5ACD" />
 </p>
 
 <!-- CENTERED TYPING INTRO -->
 <p align="center">
-  <a href="https://github.com/Dhruvik8849">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dhruvik+%F0%9F%91%8B;CSE+Student+%40+MNIT+Jaipur;Backend+%26+Systems+Developer;Cryptography+%26+DSA+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=600&color=6A5ACD&center=true&vCenter=true&width=740&lines=Hi%2C+I'm+Dhruvik+%F0%9F%8C%9F;Backend+%26+Systems+Engineering+Focused;CSE+Student+%40+MNIT+Jaipur;Clean+Code+%7C+DSA+%7C+Cryptography;Building+Skills+That+Scale" />
 </p>
 
-<!-- WAVE DIVIDER (GIF) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,100:7C3AED&text=&section=header&reversal=true&fontAlign=70&animation=twinkling" />
-</p>
+<!-- DIVIDER -->
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Dhruvik**, a 3rd-year **Computer Science student at MNIT Jaipur**, focused on building solid fundamentals and writing clean, efficient, and scalable software.
+I'm **Dhruvik**, a 3rd-year **Computer Science student at MNIT Jaipur**.  
+I focus on building reliable, efficient, and scalable systems while improving my understanding of core CS fundamentals.
 
 I enjoy working on:
-- **Systems programming & backend engineering**  
-- **Algorithmic problem-solving / contest-style DSA**  
-- **Distributed systems & basic cryptography**  
-- **Production-quality side projects with clean architecture**
+- **Backend engineering & systems programming**
+- **Data structures & algorithmic problem-solving**
+- **Database design & distributed concepts**
+- **Cryptography fundamentals & protocols**
+- **Clean architecture + maintainable codebases**
+
+---
+
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
 
 ---
 
 ## 🧠 Current Focus Areas
 
-- **DSA** — consistent grind for interviews & contests  
-- **Modern C++** — STL, RAII, clean abstractions, performance  
-- **Backend** — APIs, auth, sessions, DB design, security basics  
-- **Crypto concepts** — RSA, DH, MACs, LFSR, stream/block ciphers  
-- **Engineering discipline** — Git, docs, tests, refactors  
+- **DSA** → interview prep, contests, problem-solving discipline  
+- **Modern C++** → STL, RAII, design patterns, clean abstractions  
+- **Backend engineering** → APIs, auth, sessions, DB schema design  
+- **Crypto basics** → RSA, DH, MACs, LFSR, block & stream ciphers  
+- **Engineering discipline** → Git, documentation, readability  
+
+---
+
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,nodejs,express,mongodb,postgres,redis,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,nodejs,express,mongodb,postgres,redis,linux,docker,git,github&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-7C3AED?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-6A5ACD?style=for-the-badge&logo=serverless&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pattern-Clean%20Code%20%26%20DSA-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white"/>
 </p>
 
 ---
 
-## ⚡ Live GitHub Analytics
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
+
+---
+
+## 🧠 Skill Radar (Unique Professional Graph)
+
+<p align="center">
+  <img src="https://quickchart.io/chart?q=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Backend%22%2C%22Systems%22%2C%22DSA%22%2C%22Cryptography%22%2C%22Databases%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skills%22%2C%22data%22%3A%5B85%2C78%2C72%2C65%2C75%5D%2C%22borderColor%22%3A%22%236A5ACD%22%2C%22backgroundColor%22%3A%22rgba(106%2C90%2C205%2C0.25)%22%7D%5D%7D%7D" width="500"/>
+</p>
+
+---
+
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
+
+---
+
+## ⚡ GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&disable_animations=false"
-    height="170"
-    alt="Dhruvik's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&theme=transparent&hide_title=true&rank_icon=percentile"
+    height="160"
   />
   <img
-    src="https://streak-stats.demolab.com?user=Dhruvik8849&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j"
-    height="170"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Dhruvik8849&theme=default&hide_border=true"
+    height="160"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=donut&theme=radical&langs_count=6&hide_progress=false"
-    height="180"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=compact&theme=transparent&hide_title=true"
+    height="160"
   />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Fully Animated Grid)
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Dhruvik8849/Dhruvik8849/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔐 Authentication System (bcrypt + secure sessions)  
-A clean, modular login/auth backend with proper hashing, tokens, and session handling.  
+Clean, modular login/auth backend with hashing, tokens, sessions.  
 **Tech:** Node, Express, bcrypt, JWT, MongoDB  
 🔗 Repo: `Login-Auth-System`
 
 ### 🐍 Snake Game (Python + Pygame)  
-Classic snake with modular game loop, input handling, and basic rendering.  
+Classic snake implemented with modular game loop and event system.  
 🔗 Repo: `SnakeGame-Python`
 
 ### 🔣 Cryptography Implementations  
-Practical implementations of LFSR, MAC, RC4, Diffie–Hellman, and related primitives.  
+LFSR, MAC, RC4, Diffie-Hellman, and other crypto fundamentals.  
 🔗 Repo: `Crypto-Lab`
 
 ---
 
-## 📌 Pinned Visual Cards
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
+
+---
+
+## 📌 Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/Dhruvik8849/Login-Auth-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Login-Auth-System&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Login-Auth-System&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/Dhruvik8849/SnakeGame-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=SnakeGame-Python&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=SnakeGame-Python&theme=transparent&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Dhruvik8849/Crypto-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Crypto-Lab&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Crypto-Lab&theme=transparent&hide_border=true" />
   </a>
 </p>
 
 ---
 
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
+
+---
+
 ## 🎯 What I'm Building Toward
 
-- Strong fundamentals: **OS, DBMS, CN, OOP, networking basics**  
-- Interview-ready **DSA + system design mindset**  
-- Clean, documented, production-grade backends  
-- Internships and roles focused on **backend / systems / infra**  
+- Strong CS fundamentals (OS, DBMS, CN, OOP)  
+- Clean, scalable backend systems  
+- Interview-ready DSA  
+- Production-grade engineering mindset  
+- Roles in **backend / systems / infra**  
+
+---
+
+<p align="center"><img src="https://readme-divider.vercel.app/api/divider?color=6A5ACD" width="80%"></p>
 
 ---
 
@@ -142,5 +167,5 @@ Practical implementations of LFSR, MAC, RC4, Diffie–Hellman, and related primi
 </p>
 
 <p align="center">
-  <em>Thanks for visiting — happy to connect, pair program, or collaborate on backend / systems / crypto projects.</em>
+  <em>Thanks for visiting — let’s build something meaningful together.</em>
 </p>
