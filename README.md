@@ -1,117 +1,108 @@
 <p align="center">
   <a href="https://github.com/Dhruvik8849">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Dhruvik%20%7C%20CSE%20@%20MNIT&fontSize=35&fontColor=ffffff&fontAlign=20" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Dhruvik%20%7C%20CSE%20@%20MNIT&fontSize=36&fontColor=ffffff" alt="header" />
   </a>
 </p>
 
 <div align="center">
-  <table style="border: none; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td width="60%" style="border: none; background-color: transparent; vertical-align: center;">
-        <h2 align="left">👋 Hello World!</h2>
-        <p align="left">
-          I'm **Dhruvik**, a 3rd-year Computer Science student at <b>MNIT Jaipur</b>. I'm passionate about designing the unseen engines that power software—building reliable, efficient, and scalable backend systems.
-        </p>
-        <p align="left">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6A5ACD&width=500&lines=Backend+%26+Systems+Developer+%F0%9F%9A%80;Clean+Code+%7C+DSA+%7C+Cryptography+%F0%9F%94%90;Always+Learning%2C+Always+Building...%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-        </p>
-      </td>
-      <td width="40%" style="border: none; background-color: transparent;">
-        <img src="https://media.giphy.com/media/qgQUggACTyPTPne9PG/giphy.gif" width="300" alt="coding-gif">
-      </td>
-    </tr>
-  </table>
+  <h1>Backend & Systems Developer</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=6A5ACD&center=true&width=700&lines=Crafting+Reliable+Systems+%26+Backend+Architectures;Clean+Code+%7C+Performance+%7C+Scalability;Always+Learning%2C+Always+Building" alt="typing" />
 </div>
+
+---
+
+## 👋 About Me
+Hi — I'm **Dhruvik** (3rd year, CSE @ MNIT Jaipur). I build reliable backend systems, care deeply about clean architecture and performance, and love low-level systems & crypto experiments.
 
 ---
 
 <div align="center">
-  <table style="border: none; background-color: transparent;">
-     <tr style="border: none; background-color: transparent;">
-       <td width="50%" style="border: none; background-color: transparent; vertical-align: top;">
-          <h3>🧠 Current Focus</h3>
-          <ul>
-            <li><b>DSA:</b> Consistency & Performance Optimization</li>
-            <li><b>Modern C++:</b> STL, Memory Management, Abstractions</li>
-            <li><b>Backend:</b> APIs, DB Schema Design, Sessions</li>
-            <li><b>Cryptography:</b> RSA, DH, MAC protocols</li>
-          </ul>
-       </td>
-       <td width="50%" style="border: none; background-color: transparent; vertical-align: top;">
-          <h3>⚡ Core Interests</h3>
-           <ul>
-            <li>Systems Programming</li>
-            <li>Distributed Systems</li>
-            <li>Database Design</li>
-            <li>Clean Architecture</li>
-          </ul>
-       </td>
-     </tr>
-  </table>
+  <!-- Social badges -->
+  <a href="https://github.com/Dhruvik8849"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/dhruvik8849"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Dhruvik_MYI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </div>
 
 ---
 
-<h2 align="center">🛠 Languages & Tools</h2>
+### 🧠 Current Focus
+- Advanced DSA & problem patterns  
+- Modern C++ (STL internals, memory models)  
+- Backend engineering (auth, caching, DB indexing, Redis)  
+- Practical cryptography (implementations & protocols)
+
+### ⚡ Core Interests
+Systems programming · Distributed systems · Database design · Clean architecture
+
+---
+
+## 🛠 Tech & Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,nodejs,express,mongodb,postgres,redis,linux,docker,git,github,bash,cmake&perline=12&theme=dark" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,nodejs,express,mongodb,postgres,redis,linux,docker,git,github,bash,cmake&perline=12&theme=dark" alt="skills"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 GitHub Analytics</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&count_private=true&theme=react&title_color=6A5ACD&icon_color=6A5ACD&bg_color=0d1117&hide_border=true" alt="Dhruvik's Stats" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com?user=Dhruvik8849&theme=react&mode=daily&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&bg_color=0d1117&hide_border=true" alt="Dhruvik's Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=compact&theme=react&title_color=6A5ACD&icon_color=6A5ACD&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</p>
-
-<h3 align="center">🐍 Contribution History</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruvik8849/Dhruvik8849/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-<h2 align="center">📌 Featured Projects</h2>
-<p align="center">
-Make sure you have pinned your best repositories in your profile settings!
-</p>
-<p align="center">
-  <a href="https://github.com/Dhruvik8849/Login-Auth-System">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Login-Auth-System&theme=react&title_color=6A5ACD&icon_color=6A5ACD&bg_color=0d1117&hide_border=true" alt="Auth System" />
-  </a>
-  <a href="https://github.com/Dhruvik8849/SnakeGame-Python">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=SnakeGame-Python&theme=react&title_color=6A5ACD&icon_color=6A5ACD&bg_color=0d1117&hide_border=true" alt="Snake Game" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Dhruvik8849/Crypto-Lab">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Crypto-Lab&theme=react&title_color=6A5ACD&icon_color=6A5ACD&bg_color=0d1117&hide_border=true" alt="Crypto Lab" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=60&section=footer" width="100%" />
-</p>
-
-<h3 align="center">🤝 Let's Connect</h3>
-<p align="center">
-  <a href="https://github.com/Dhruvik8849" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+## 🌗 Auto Dark/Light GitHub Stats & Top Languages
+<div align="center">
+  <!-- Dark / Light versions (auto by GitHub CSS selectors) -->
+  <p>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&count_private=true&hide_border=true&theme=react#gh-dark-mode-only" alt="gh-stats-dark"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only" alt="gh-stats-light"/>
   </p>
-<p align="center"><em>Lets build something meaningful.</em></p>
+  <p>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=compact&hide_border=true&theme=react&langs_count=6#gh-dark-mode-only" alt="langs-dark"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=compact&hide_border=true&theme=default&langs_count=6#gh-light-mode-only" alt="langs-light"/>
+  </p>
+</div>
+
+---
+
+## 🔭 Currently Building
+<!-- Simple progress badge (edit percentage manually) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Building-Auth%20System%20API-6A5ACD?style=for-the-badge" alt="building"/>
+  <img src="https://img.shields.io/badge/Progress-45%25-yellow?style=for-the-badge" alt="progress"/>
+</p>
+
+---
+
+## 💼 Mini Portfolio — Pinned Work
+<p align="center">
+  <a href="https://github.com/Dhruvik8849/Login-Auth-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Login-Auth-System&theme=react&hide_border=true" width="45%" alt="Login-Auth-System"/></a>
+  <a href="https://github.com/Dhruvik8849/SnakeGame-Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=SnakeGame-Python&theme=react&hide_border=true" width="45%" alt="SnakeGame"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Dhruvik8849/Crypto-Lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvik8849&repo=Crypto-Lab&theme=react&hide_border=true" width="48%" alt="Crypto-Lab"/></a>
+</p>
+
+---
+
+## 🏗️ How to add a 3D GitHub contribution graph (quick)
+You can generate a 3D model / skyline or an SVG of your contribution calendar using an Action or a small script. Two popular options:
+
+- `github-profile-3d-contrib` — GitHub Action / repo that generates a 3D-style contribution visualization and commits it to your repo (you can add it as a workflow). :contentReference[oaicite:5]{index=5}  
+- `gh-skyline` / GitHub Skyline clones — many community projects (and demos) produce a 3D skyline from contributions; they can be run locally or hosted. :contentReference[oaicite:6]{index=6}
+
+**Example (workflow snippet) — place this in `.github/workflows/3d-contrib.yml`:**
+
+```yaml
+name: Generate 3D contribution
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *' # runs daily at 04:00 UTC, change as you like
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contrib (example)
+        uses: yoshi389111/github-profile-3d-contrib@v0.8.0
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          username: Dhruvik8849
+          output_path: "./contrib-3d"   # example output folder
