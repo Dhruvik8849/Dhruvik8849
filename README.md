@@ -15,97 +15,99 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<!-- Header / Intro -->
-<h1 align="center">Hey, I'm Dhruvik 👋</h1>
-
+<!-- Clean Animated Intro -->
 <p align="center">
-  <b>3rd year CSE @ MNIT Jaipur · Competitive Programmer · Blockchain & Systems Enthusiast</b><br/>
-  Writing C++ by day, breaking smart contracts by night.
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">💻 Projects</a> •
-  <a href="https://leetcode.com/">🧠 LeetCode Grind</a> •
-  <a href="https://github.com/anuraghazra/github-readme-stats">⚡ GitHub Stats Engine</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=700&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dhruvik+🤝;CSE+Student+%40+MNIT+Jaipur;Software+Developer+%7C+Systems+%7C+Backend;Always+Learning.+Always+Improving." />
 </p>
 
 ---
 
-<!-- Animated GitHub Stats + Streak + Top Langs -->
+## 👋 About Me
+
+I'm **Dhruvik**, a 3rd-year **Computer Science student at MNIT Jaipur**, focused on building solid fundamentals and writing clean, efficient, scalable software.
+
+I enjoy working on:
+- **Systems programming**  
+- **Backend engineering**  
+- **Algorithmic problem-solving**  
+- **Distributed systems & cryptography basics**  
+- **Building production-quality projects**
+
+I aim for clarity, structure, and long-term maintainability over flashiness.
+
+---
+
+## 🧠 Current Focus Areas
+
+- **Data Structures & Algorithms** — improving daily through problem solving  
+- **Modern C++** — STL, clean design, performance  
+- **Backend foundations** — APIs, auth, databases  
+- **Cryptography fundamentals** — RSA, DH, MACs, LFSR, block ciphers  
+- **Reliable software engineering practices** — Git, documentation, testing  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <!-- Main stats card -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&disable_animations=false" 
-    alt="GitHub Stats"
-    height="180"
-/>
-  <!-- Streak (separate service, optional; comment out if you don't want it) -->
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j"
-    alt="GitHub Streak"
-    height="180"
-/>
-</p>
-
-<!-- Top languages in compact layout -->
-<p align="center">
+    src="https://github-readme-stats.vercel.app/api?username=Dhruvik8849&show_icons=true&hide_title=true&theme=default&include_all_commits=true&count_private=true"
+    height="160"
+  />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true"
-    alt="Top Languages"
-    height="180"
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvik8849&layout=compact&theme=default&hide_title=true"
+    height="160"
+  />
 </p>
 
 ---
 
-<!-- Pinned Repositories (Extra pins) -->
-<h2 align="center">🚀 Featured Repos</h2>
+## 🚀 Featured Projects
+
+### 🔐 Authentication System (bcrypt + secure sessions)  
+A clean, modular login/auth backend.  
+**Tech:** Node, Express, bcrypt, JWT, MongoDB  
+🔗 Repo: `Login-Auth-System`
+
+### 🐍 Snake Game (Python + Pygame)  
+Basic game architecture, modular code, event loop design.  
+🔗 Repo: `SnakeGame-Python`
+
+### 🔣 Cryptography Implementations  
+Hands-on implementations: LFSR, MAC, RC4, DH  
+🔗 Repo: `Crypto-Lab`
+
+---
+
+## 🎯 What I'm Building Toward
+
+- Writing **professional-quality code**  
+- Strong CS foundation: OS, DBMS, CN, OOP  
+- Clean architecture, modular design, documentation  
+- Preparing for **internships at top tech companies**
+
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/your-cp-repo">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=your-cp-repo&theme=radical&hide_border=true"
-      alt="CP Repo"
-/>
+  <a href="https://github.com/Dhruvik8849">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/your-blockchain-repo">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=your-blockchain-repo&theme=radical&hide_border=true"
-      alt="Blockchain Repo"
-/>
-  </a>
 </p>
 
----
+<p align="center">Thanks for visiting — always open to learning & collaboration.</p>
 
-<!-- Tech Stack Badges (simple text version to keep it clean) -->
-<h2 align="center">🛠 Tech & Tools</h2>
-
-<p align="center">
-  C++ • STL • Rust • JavaScript • TypeScript • React • Node.js • Git • Linux • Docker • Solidity
-</p>
-
----
-
-<!-- About / Context -->
-### 🧩 What I'm into
-
-- Optimizing C++ solutions for hard DSA and contest problems.  
-- Reading and tinkering with L1 blockchain & sharding / ZKP papers.  
-- Building fast, minimal web tools and infra-style projects.
-
-### 🎯 Current Focus
-
-- Cracking internship/placement rounds with strong CP + systems skills.  
-- Deep-diving into consensus, scalability, and smart contract security.  
-- Slowly turning side projects into polished, production-grade repos.
-
----
-
-<!-- Footer -->
-<p align="center">
-  <i>Star this profile if you found something useful, or just drop a PR on any repo 😄</i>
-</p>
